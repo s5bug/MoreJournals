@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celeste.Mod.mm", "Everest\Celeste.Mod.mm\Celeste.Mod.mm.csproj", "{C0E4487A-88B0-454F-9F02-CF0EDE7F9B9E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MoreJournals", "MoreJournals\MoreJournals.fsproj", "{ABB5087C-654B-4A55-9C19-B086A9F20BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E4487A-88B0-454F-9F02-CF0EDE7F9B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E4487A-88B0-454F-9F02-CF0EDE7F9B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E4487A-88B0-454F-9F02-CF0EDE7F9B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E4487A-88B0-454F-9F02-CF0EDE7F9B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB5087C-654B-4A55-9C19-B086A9F20BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB5087C-654B-4A55-9C19-B086A9F20BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB5087C-654B-4A55-9C19-B086A9F20BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB5087C-654B-4A55-9C19-B086A9F20BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

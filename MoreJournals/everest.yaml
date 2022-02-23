@@ -1,0 +1,6 @@
+﻿- Name: MoreJournals
+  Version: 0.0.1
+  DLL: MoreJournals.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3205.0
