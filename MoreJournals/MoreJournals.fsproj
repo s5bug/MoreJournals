@@ -39,6 +39,7 @@
         </None>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="GlobalJournal.fs" />
         <Compile Include="MoreJournalsModule.fs" />
         <Content Include="everest.yaml" />
     </ItemGroup>
